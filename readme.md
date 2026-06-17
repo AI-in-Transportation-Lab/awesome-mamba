@@ -31,12 +31,12 @@ To ensure that the community stays informed of cutting-edge developments, our re
 Whether you're a researcher exploring long-range dependencies, a developer building efficient sequence models, or simply an enthusiast in machine learning, this collection serves as a centralized hub for everything related to S4, Mamba, and the broader family of state space models, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-June 16, 2026 at 04:12:09 AM UTC
+June 17, 2026 at 04:11:37 AM UTC
 
 
 ## Theorem
 
-## Papers (60)
+## Papers (61)
 - [From S4 to Mamba: A Comprehensive Survey on Structured State Space Models](https://arxiv.org/abs/2503.18970)
 - [W4S4: WaLRUS Meets S4 for Long-Range Sequence Modeling](https://arxiv.org/abs/2506.07920)
 - [Technologies on Effectiveness and Efficiency: A Survey of State Spaces Models](https://arxiv.org/abs/2503.11224)
@@ -97,6 +97,7 @@ June 16, 2026 at 04:12:09 AM UTC
 - [An explicit operator explains end-to-end computation in the modern neural networks used for sequence and language modeling](https://arxiv.org/abs/2604.20595)
 - [Geometry-Aware State Space Model: A New Paradigm for Whole-Slide Image Representation](https://arxiv.org/abs/2605.05164)
 - [Continuity Laws for Sequential Models](https://arxiv.org/abs/2605.08539)
+- [S4oP: Operator-level Pruning of Structured State Space Models for Resource-Constrained Devices](https://arxiv.org/abs/2606.18096)
 
 
 ## Library

@@ -31,7 +31,7 @@ To ensure that the community stays informed of cutting-edge developments, our re
 Whether you're a researcher exploring long-range dependencies, a developer building efficient sequence models, or simply an enthusiast in machine learning, this collection serves as a centralized hub for everything related to S4, Mamba, and the broader family of state space models, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-August 27, 2026 at 07:52:15 AM UTC
+August 28, 2026 at 09:56:41 AM UTC
 
 
 ## Theorem

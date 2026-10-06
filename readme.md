@@ -31,12 +31,12 @@ To ensure that the community stays informed of cutting-edge developments, our re
 Whether you're a researcher exploring long-range dependencies, a developer building efficient sequence models, or simply an enthusiast in machine learning, this collection serves as a centralized hub for everything related to S4, Mamba, and the broader family of state space models, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-October 5, 2026 at 04:25:53 AM UTC
+October 6, 2026 at 05:12:42 AM UTC
 
 
 ## Theorem
 
-## Papers (64)
+## Papers (65)
 - [From S4 to Mamba: A Comprehensive Survey on Structured State Space Models](https://arxiv.org/abs/2503.18970)
 - [W4S4: WaLRUS Meets S4 for Long-Range Sequence Modeling](https://arxiv.org/abs/2506.07920)
 - [Technologies on Effectiveness and Efficiency: A Survey of State Spaces Models](https://arxiv.org/abs/2503.11224)
@@ -101,6 +101,7 @@ October 5, 2026 at 04:25:53 AM UTC
 - [SL-S4Wave: Self-Supervised Learning of Physiological Waveforms with Structured State Space Models](https://arxiv.org/abs/2606.19888)
 - [Advancing Intelligent Sequence Modeling: Evolution, Trade-offs, and Applications of State-Space Architectures from S4 to Mamba](https://arxiv.org/abs/2503.18970)
 - [A Structured State Space Sequence Model for Multi-Class Classification of Malware](https://arxiv.org/abs/2610.01893)
+- [MercerFlow: Flow Matching in a Kernel-Induced Latent Space for Probabilistic Forecasting](https://arxiv.org/abs/2610.06039)
 
 
 ## Library
